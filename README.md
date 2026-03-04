@@ -1,51 +1,25 @@
-# 👩🏻‍💻 Fernanda Oliveira
+# 👩🏽‍💻 Fernanda Oliveira
 
 **`Estudante Segurança da Informação`**
 
-Me chamo Fernanda Oliveira, tenho 20 anos e de São Paulo. Estou cursando Segurança da Informação na Universidade Paulista - UNIP. Estou implementando em conjunto com o head de TI da minha empresa a área de segurança da informação. Atuando fortemente na GRC garantindo que a empresa opere com ética, em conformidade com leis e normas, gerenciando os riscos de forma proativa e que mantenha com uma governança eficiente.
-/>
-</a>
-<a href="https://github.com/fernandagtr/fernandagtr?tab=repositories&sort=stargazers">
-<img alt="total stars" tittle="Total stars on Github" src="https://custon-icon-badges.demolab.com/github/stars/fernandagtr?color=55960c&style-for-the-badge&labelColor488207&logo=star"/>
-/>
-</a>
-<a href="https://github.com/fernandagtr?tab=followers">
-<img
-alt="followers"
-title="Follow me on Github"
-scr="https//custom-icon-badges.demolab.com/gitbub/followers/fernandagtr?color=236ad3&labelcolorColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=while"
+Me chamo Fernanda Oliveira, tenho 20 anos e sou de São Paulo. Estou cursando Segurança da Informação na Universidade Paulista - UNIP. Estou implementando em conjunto com o head de TI da minha empresa a área de segurança da informação. Atuando fortemente na GRC garantindo que a empresa opere com ética, em conformidade com leis e normas, gerenciando os riscos de forma proativa e que mantenha com uma governança eficiente.
 
-  name: Generate Datas
-
-on:
-schedule: # execute every 12 hours
-- cron: "* */12 * * *"
-workflow_dispatch:
-
-jobs:
-build:
-name: Jobs to update datas
-runs-on: ubuntu-latest
-steps:
-      # Summary Cards
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-
-# Snake Animation
-- uses: Platane/snk@master
-id: snake-gif
-with:
-github_user_name: rafaballerini
-svg_out_path: dist/github-contribution-grid-snake.svg
-
-- uses: crazy-max/ghaction-github-pages@v2.1.3
-with:
-target_branch: output
-build_dir: dist
-env:
-GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/feer.gtr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fernandaoliveiirra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernanda-oliveira-876b41327" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
