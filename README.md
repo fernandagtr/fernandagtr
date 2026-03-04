@@ -23,8 +23,6 @@ Me chamo Fernanda Oliveira, tenho 20 anos e sou de São Paulo. Estou cursando Se
   <a href="https://www.linkedin.com/in/fernanda-oliveira-876b41327" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<a
 name: Generate Datas
 
 on:
